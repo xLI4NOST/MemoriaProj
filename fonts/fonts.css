@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Angst';
+  src: url('Angst-Normal.woff2') format('woff2'),
+  url('Angst-Normal.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Angst';
+  src: url('Angst-Bold.woff2') format('woff2'),
+  url('Angst-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
